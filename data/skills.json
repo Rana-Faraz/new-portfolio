@@ -1,0 +1,132 @@
+[
+  {
+    "_createdAt": "2022-09-21T20:07:29Z",
+    "_id": "17992374-8cb5-472c-b754-b217a02ca15d",
+    "_rev": "fJVrtBZ2jSHcoUHOe6R7jq",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:07:29Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/beb9f9c2c8e3dd2ea5396ce01e00033a0305e790-800x479.png",
+    "progress": 70,
+    "title": "Next JS"
+  },
+  {
+    "_createdAt": "2022-09-21T20:15:07Z",
+    "_id": "236cc8b3-ee14-4a28-bcc8-bd65fe817cc5",
+    "_rev": "RJoElFl70nDm7q9Miy2Wxg",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:15:07Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/271c31766f7a633f1cc2cd369ce34a4ce5368380-2400x2400.png",
+    "progress": 50,
+    "title": "Twilio"
+  },
+  {
+    "_createdAt": "2022-09-21T20:05:32Z",
+    "_id": "438e6753-fe67-4b98-ad95-ba2d53ab5287",
+    "_rev": "JDBqbxn2BEU3Yp6l2iLW5A",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:05:32Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/cc1d0e6152029f06e1ae1cec7afe4e29a044a4c5-512x408.png",
+    "progress": 70,
+    "title": "Bootstrap"
+  },
+  {
+    "_createdAt": "2022-09-21T20:04:10Z",
+    "_id": "4b7e546c-9681-44b7-9ec4-fdbc03ed5033",
+    "_rev": "fJVrtBZ2jSHcoUHOe6Pdqz",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:04:10Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/c8f786f850bd2edfea3da0c690222f44b832e17f-400x400.png",
+    "progress": 80,
+    "title": "JavaScript"
+  },
+  {
+    "_createdAt": "2022-09-21T20:06:46Z",
+    "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+    "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:06:46Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/5e99869304068000ce7f7f2f759e5a28b349b49f-798x854.png",
+    "progress": 90,
+    "title": "React Native"
+  },
+  {
+    "_createdAt": "2022-09-21T20:06:07Z",
+    "_id": "79c09b5a-3a0e-4469-b800-efc1e6ceca8d",
+    "_rev": "JDBqbxn2BEU3Yp6l2iLkIb",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:06:07Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/beb66a738f4f315ed014efacb0723ecfc116611c-512x512.png",
+    "progress": 60,
+    "title": "GitHub"
+  },
+  {
+    "_createdAt": "2022-09-21T20:05:55Z",
+    "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+    "_rev": "RJoElFl70nDm7q9MixzJhs",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:05:55Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512.png",
+    "progress": 60,
+    "title": "Firebase"
+  },
+  {
+    "_createdAt": "2022-09-21T20:24:46Z",
+    "_id": "9b31e210-33c7-4737-99a8-10ac0621bae1",
+    "_rev": "RJoElFl70nDm7q9Miy5z1l",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:24:46Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/bafa88a09f8ab2ba8447a488a4ab45bb56064fa5-512x512.webp",
+    "progress": 90,
+    "title": "Expo CLI"
+  },
+  {
+    "_createdAt": "2022-09-21T20:06:30Z",
+    "_id": "a9eb10ea-6376-4efe-905b-d91559e5bb56",
+    "_rev": "RJoElFl70nDm7q9MixzVOK",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:06:30Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/21defb7373823b79092b196286b482b2ce0c7d4d-642x737.png",
+    "progress": 90,
+    "title": "React JS"
+  },
+  {
+    "_createdAt": "2022-09-21T20:05:07Z",
+    "_id": "ce09a379-5547-492f-9d92-24685e8ab893",
+    "_rev": "RJoElFl70nDm7q9Mixz1lm",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:05:07Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/72653b9281925e8c481a1d47e8223379d2152630-7110x7110.png",
+    "progress": 90,
+    "title": "HTML"
+  },
+  {
+    "_createdAt": "2022-09-21T20:07:09Z",
+    "_id": "d646aea4-7f9c-417b-839c-3e645e9beb81",
+    "_rev": "JDBqbxn2BEU3Yp6l2iM8fd",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:07:09Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/58f072b718b2c43df0b8330a1c28658bba06ddb2-2048x2048.png",
+    "progress": 80,
+    "title": "Tailwind CSS"
+  },
+  {
+    "_createdAt": "2022-09-21T20:04:40Z",
+    "_id": "df1cc37b-5981-4a49-a9f1-23d8551a5b94",
+    "_rev": "RJoElFl70nDm7q9Mixysnj",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:04:40Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/e3476619d24c1458fdfa1c0fcc5ba49243544324-7110x7110.png",
+    "progress": 80,
+    "title": "CSS"
+  },
+  {
+    "_createdAt": "2022-09-21T20:13:07Z",
+    "_id": "fc55a3c7-3c7a-4a4e-b204-f7d4943f7bbd",
+    "_rev": "RJoElFl70nDm7q9Miy1sAS",
+    "_type": "skill",
+    "_updatedAt": "2022-09-21T20:13:07Z",
+    "image": "https://cdn.sanity.io/images/ncre61s6/production/6f72abe9bc6a5da892808beb6ba07fe79448d2eb-256x256.png",
+    "progress": 40,
+    "title": "Google Api"
+  }
+]

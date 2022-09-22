@@ -1,20 +1,19 @@
-import { useEffect, useState } from "react";
-import type { GetStaticProps, NextPage } from "next";
+import { ChevronUpIcon } from "@heroicons/react/24/solid";
+import { motion } from "framer-motion";
+import type { GetStaticProps } from "next";
 import Head from "next/head";
+import Link from "next/link";
 import About from "../components/About";
 import Contact from "../components/Contact";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 import { default as Project } from "../components/Projects";
 import Skills from "../components/Skills";
-import { ChevronUpIcon } from "@heroicons/react/24/solid";
-import Link from "next/link";
-import { motion } from "framer-motion";
-import { PageInfo, Projects, Skill, Social } from "../typings";
-import { fetchPageInfo } from "../utils/fetchPageInfo";
-import { fetchSkills } from "../utils/fetchSkills";
-import { fetchProjects } from "../utils/fetchProjects";
-import { fetchSocials } from "../utils/fetchSocials";
+import PageData from "../data/pageInfo.json";
+import ProjectsData from "../data/projects.json";
+import SkillsData from "../data/skills.json";
+import SocialData from "../data/socials.json";
+import { Projects, Skill, Social } from "../typings";
 
 type Props = {
   pageInfo: any;
@@ -90,11 +89,11 @@ const Home = ({ pageInfo, projects, skills, socials }: Props) => {
 
 export default Home;
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
-  const skills: Skill[] = await fetchSkills();
-  const projects: Projects[] = await fetchProjects();
-  const socials: Social[] = await fetchSocials();
-  const pageInfo: any = await fetchPageInfo();
+export const getStaticProps: GetStaticProps<Props> = () => {
+  const skills: any[] = SkillsData;
+  const projects: any[] = ProjectsData;
+  const socials: any[] = SocialData;
+  const pageInfo: any = PageData;
 
   return {
     props: {
@@ -103,6 +102,5 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
       socials,
       skills,
     },
-    revalidate: 100,
   };
 };

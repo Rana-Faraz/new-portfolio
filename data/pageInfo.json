@@ -1,0 +1,37 @@
+{
+  "_createdAt": "2022-09-21T19:37:20Z",
+  "_id": "24141336-ed7f-4f3b-ab6a-8f22852228b1",
+  "_rev": "fJVrtBZ2jSHcoUHOe6GRHu",
+  "_type": "pageInfo",
+  "_updatedAt": "2022-09-21T19:47:26Z",
+  "address": "Lahore, Pakistan.",
+  "backgroundInformation": "I'm a self-taught developer with a passion for learning new technologies and building things that help people. I have been working as a React Native Developer for 1 year on various projects. My expertise are in mobile apps and building responsive web applications. I also build robust backends and API endpoints, which are scalable and optimized to your needs.",
+  "email": "rfaraz51@gmail.com",
+  "heroImage": "https://cdn.sanity.io/images/ncre61s6/production/f8bdbb91e936f111479177a364ea7b0f7d2efd15-1144x1144.jpg",
+  "name": "Rana Faraz",
+  "phoneNumber": "+923464626166",
+  "profilePic": "https://cdn.sanity.io/images/ncre61s6/production/f8bdbb91e936f111479177a364ea7b0f7d2efd15-1144x1144.jpg",
+  "role": "Software Engineer",
+  "socials": [
+    {
+      "_key": "81ca40f8e65f",
+      "_ref": "073436a7-92f4-4155-8215-9c60f9d8e24c",
+      "_type": "reference"
+    },
+    {
+      "_key": "fb75f938c2d7",
+      "_ref": "eef476ae-39f4-4a70-827a-d0cb897810ef",
+      "_type": "reference"
+    },
+    {
+      "_key": "ecfc0a218252",
+      "_ref": "83e0400d-947e-4262-880f-37aa5b7617eb",
+      "_type": "reference"
+    },
+    {
+      "_key": "b88c3eb59a1d",
+      "_ref": "d82848d2-09ea-4a5c-a216-510c63c41b18",
+      "_type": "reference"
+    }
+  ]
+}

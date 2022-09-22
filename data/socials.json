@@ -1,0 +1,38 @@
+[
+  {
+    "_createdAt": "2022-09-21T19:45:36Z",
+    "_id": "073436a7-92f4-4155-8215-9c60f9d8e24c",
+    "_rev": "RJoElFl70nDm7q9MixoMux",
+    "_type": "social",
+    "_updatedAt": "2022-09-21T19:45:36Z",
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/in/rana-faraz-b5012365/"
+  },
+  {
+    "_createdAt": "2022-09-21T19:43:17Z",
+    "_id": "83e0400d-947e-4262-880f-37aa5b7617eb",
+    "_rev": "JDBqbxn2BEU3Yp6l2i8has",
+    "_type": "social",
+    "_updatedAt": "2022-09-21T19:43:17Z",
+    "title": "Facebook",
+    "url": "https://www.facebook.com/F44ZZi/"
+  },
+  {
+    "_createdAt": "2022-09-21T19:43:54Z",
+    "_id": "d82848d2-09ea-4a5c-a216-510c63c41b18",
+    "_rev": "RJoElFl70nDm7q9Mixnmms",
+    "_type": "social",
+    "_updatedAt": "2022-09-21T19:43:54Z",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/f44zzi/"
+  },
+  {
+    "_createdAt": "2022-09-21T19:44:34Z",
+    "_id": "eef476ae-39f4-4a70-827a-d0cb897810ef",
+    "_rev": "RJoElFl70nDm7q9MixnyDR",
+    "_type": "social",
+    "_updatedAt": "2022-09-21T19:44:34Z",
+    "title": "YouTube",
+    "url": "https://www.youtube.com/f4zyt"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "_createdAt": "2022-09-21T20:16:15Z",
+    "_id": "0060032a-2701-45f8-a67b-685ce40dfc4a",
+    "_rev": "JDBqbxn2BEU3Yp6l2jE69R",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:21:00Z",
+    "dateEnded": "2022-09-01",
+    "dateStarted": "2022-08-10",
+    "framework": "React Native",
+    "points": [
+      "An application that helps people to connect to each other and share rides.",
+      "Fully functional one-to-one chatting functionality.",
+      "Twilio for sending OTP for Signing in/Signing up.",
+      "Includes Google Directions Api for precise navigation.",
+      "And Google Places Api."
+    ],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/4c1ee758c592ae74bdf3c42318eefd33a1a30b1b-240x240.webp",
+    "projectName": "Carpool Application",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:06:46Z",
+        "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+        "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5e99869304068000ce7f7f2f759e5a28b349b49f-798x854-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React Native"
+      },
+      {
+        "_createdAt": "2022-09-21T20:05:55Z",
+        "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+        "_rev": "RJoElFl70nDm7q9MixzJhs",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:05:55Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 60,
+        "title": "Firebase"
+      },
+      {
+        "_createdAt": "2022-09-21T20:13:07Z",
+        "_id": "fc55a3c7-3c7a-4a4e-b204-f7d4943f7bbd",
+        "_rev": "RJoElFl70nDm7q9Miy1sAS",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:13:07Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-6f72abe9bc6a5da892808beb6ba07fe79448d2eb-256x256-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 40,
+        "title": "Google Api"
+      },
+      {
+        "_createdAt": "2022-09-21T20:15:07Z",
+        "_id": "236cc8b3-ee14-4a28-bcc8-bd65fe817cc5",
+        "_rev": "RJoElFl70nDm7q9Miy2Wxg",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:15:07Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-271c31766f7a633f1cc2cd369ce34a4ce5368380-2400x2400-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 50,
+        "title": "Twilio"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2022-09-21T20:19:24Z",
+    "_id": "43f25a71-bac9-4e34-84ba-dd5cc929d428",
+    "_rev": "RJoElFl70nDm7q9MiynQ2n",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:20:31Z",
+    "dateEnded": "2022-08-09",
+    "dateStarted": "2022-08-01",
+    "framework": "React Native",
+    "points": [
+      "An app to track and create a complete portfolio of your crypto achievements.",
+      "Compare prices in different currencies.",
+      "Theme switching for Dark Mode.",
+      "Currency Switching for your native currencies.",
+      "Async Storage for Local Database"
+    ],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/5d5d5406262b482de4d65d66df4b4d2410f6988b-300x300.png",
+    "projectName": "Crypto Portfolio Application",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:06:46Z",
+        "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+        "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5e99869304068000ce7f7f2f759e5a28b349b49f-798x854-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React Native"
+      },
+      {
+        "_createdAt": "2022-09-21T20:05:55Z",
+        "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+        "_rev": "RJoElFl70nDm7q9MixzJhs",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:05:55Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 60,
+        "title": "Firebase"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2022-09-21T20:25:32Z",
+    "_id": "461655cb-4210-440c-bc88-0bf5dd81e04e",
+    "_rev": "JDBqbxn2BEU3Yp6l2jDz11",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:20:47Z",
+    "dateEnded": "2022-07-13",
+    "dateStarted": "2022-07-01",
+    "framework": "React Native/Expo CLI",
+    "points": [
+      "This app provides ambient noises like thunder, rain, static that help you clear your mind and sleep better."
+    ],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/9522832515074040ca567a8a1eb02be740aa1aeb-512x512.png",
+    "projectName": "Music Player Applications",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:06:46Z",
+        "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+        "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5e99869304068000ce7f7f2f759e5a28b349b49f-798x854-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React Native"
+      },
+      {
+        "_createdAt": "2022-09-21T20:24:46Z",
+        "_id": "9b31e210-33c7-4737-99a8-10ac0621bae1",
+        "_rev": "RJoElFl70nDm7q9Miy5z1l",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:24:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-bafa88a09f8ab2ba8447a488a4ab45bb56064fa5-512x512-webp",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "Expo CLI"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2022-09-21T20:27:19Z",
+    "_id": "53129d02-a679-4eae-bbb5-faae15f41d80",
+    "_rev": "RJoElFl70nDm7q9MiynEow",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:20:00Z",
+    "dateEnded": "2022-06-30",
+    "dateStarted": "2022-06-23",
+    "framework": "React Native",
+    "points": ["Built in React native & used firebase as backend."],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/3741645bbf22b1a84397678cb1fe63b3221d4923-512x512.png",
+    "projectName": "Real Time Chat Application",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:24:46Z",
+        "_id": "9b31e210-33c7-4737-99a8-10ac0621bae1",
+        "_rev": "RJoElFl70nDm7q9Miy5z1l",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:24:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-bafa88a09f8ab2ba8447a488a4ab45bb56064fa5-512x512-webp",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "Expo CLI"
+      },
+      {
+        "_createdAt": "2022-09-21T20:06:46Z",
+        "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+        "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5e99869304068000ce7f7f2f759e5a28b349b49f-798x854-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React Native"
+      },
+      {
+        "_createdAt": "2022-09-21T20:05:55Z",
+        "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+        "_rev": "RJoElFl70nDm7q9MixzJhs",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:05:55Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 60,
+        "title": "Firebase"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2022-09-21T20:22:16Z",
+    "_id": "9611550e-bbb6-4ee7-885d-e2a7168ce7bf",
+    "_rev": "JDBqbxn2BEU3Yp6l2jDnyy",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:20:19Z",
+    "dateEnded": "2022-07-31",
+    "dateStarted": "2022-07-13",
+    "framework": "React Native",
+    "points": [
+      "Fully functional tinder dating app clone. ",
+      "Swiping functionality using gesture handler. ",
+      "Backend Firebase/Firestore for user authentication and storage."
+    ],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/ecf3965172c5b9d132109d4b847494e10e27a3a4-591x691.png",
+    "projectName": "Tinder Clone",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:06:46Z",
+        "_id": "72840dd8-83e2-461d-a055-0e5259cac52e",
+        "_rev": "fJVrtBZ2jSHcoUHOe6Qn8V",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:46Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-5e99869304068000ce7f7f2f759e5a28b349b49f-798x854-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React Native"
+      },
+      {
+        "_createdAt": "2022-09-21T20:05:55Z",
+        "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+        "_rev": "RJoElFl70nDm7q9MixzJhs",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:05:55Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 60,
+        "title": "Firebase"
+      }
+    ]
+  },
+  {
+    "_createdAt": "2022-09-21T20:30:42Z",
+    "_id": "d2eb80b0-49df-4751-a559-5f33e41af422",
+    "_rev": "fJVrtBZ2jSHcoUHOe7Nf5v",
+    "_type": "projects",
+    "_updatedAt": "2022-09-21T22:19:50Z",
+    "dateEnded": "2022-09-22",
+    "dateStarted": "2022-09-16",
+    "framework": "ReactJS/NextJS",
+    "points": [
+      "A Netflix Clone that provides all the latest info about the current movies on netflix.",
+      "Uses TMDB Api to fetch movies and render them.",
+      "Uses firebase for user authentication and payment plan."
+    ],
+    "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/da06711793095563a8b1bf8c305004421007ec58-768x768.png",
+    "projectName": "Netflix Clone",
+    "technologies": [
+      {
+        "_createdAt": "2022-09-21T20:06:30Z",
+        "_id": "a9eb10ea-6376-4efe-905b-d91559e5bb56",
+        "_rev": "RJoElFl70nDm7q9MixzVOK",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:06:30Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-21defb7373823b79092b196286b482b2ce0c7d4d-642x737-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 90,
+        "title": "React JS"
+      },
+      {
+        "_createdAt": "2022-09-21T20:05:55Z",
+        "_id": "8b49fd82-efd0-456d-bf19-a2c5b1f08a08",
+        "_rev": "RJoElFl70nDm7q9MixzJhs",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:05:55Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-cfd4ee7861252ad82bb7bedeb4877a90a53e4f9d-373x512-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 60,
+        "title": "Firebase"
+      },
+      {
+        "_createdAt": "2022-09-21T20:07:09Z",
+        "_id": "d646aea4-7f9c-417b-839c-3e645e9beb81",
+        "_rev": "JDBqbxn2BEU3Yp6l2iM8fd",
+        "_type": "skill",
+        "_updatedAt": "2022-09-21T20:07:09Z",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_ref": "image-58f072b718b2c43df0b8330a1c28658bba06ddb2-2048x2048-png",
+            "_type": "reference"
+          }
+        },
+        "progress": 80,
+        "title": "Tailwind CSS"
+      }
+    ]
+  }
+]
