@@ -1,8 +1,6 @@
-import { ChevronUpIcon } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
 import type { GetStaticProps } from "next";
 import Head from "next/head";
-import Link from "next/link";
 import About from "../components/About";
 import Contact from "../components/Contact";
 import Header from "../components/Header";
@@ -66,23 +64,6 @@ const Home = ({ pageInfo, projects, skills, socials }: Props) => {
       <section id="contact" className="snap-start scroll-smooth">
         <Contact pageInfo={pageInfo} />
       </section>
-
-      <Link href="#hero">
-        <motion.div
-          initial={{
-            opacity: 0,
-          }}
-          animate={{
-            opacity: 1,
-          }}
-          transition={{
-            duration: 0.6,
-          }}
-          className="sticky bottom-5 mx-auto max-w-lg bg-gray-500/20 flex items-center rounded-full justify-center hover:bg-[#f7ab0a] hover:text-black transition duration-300 ease-in-out"
-        >
-          <ChevronUpIcon className="h-10" />
-        </motion.div>
-      </Link>
     </div>
   );
 };

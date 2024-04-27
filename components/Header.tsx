@@ -1,6 +1,5 @@
-import React from "react";
-import { SocialIcon } from "react-social-icons";
 import Link from "next/link";
+import { SocialIcon } from "react-social-icons";
 import { Social } from "../typings";
 
 type Props = {

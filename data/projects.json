@@ -11,9 +11,7 @@
     "points": [
       "An application that helps people to connect to each other and share rides.",
       "Fully functional one-to-one chatting functionality.",
-      "Twilio for sending OTP for Signing in/Signing up.",
-      "Includes Google Directions Api for precise navigation.",
-      "And Google Places Api."
+      "Twilio for sending OTP for Signing in/Signing up."
     ],
     "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/4c1ee758c592ae74bdf3c42318eefd33a1a30b1b-240x240.webp",
     "projectName": "Carpool Application",
@@ -96,9 +94,7 @@
     "points": [
       "An app to track and create a complete portfolio of your crypto achievements.",
       "Compare prices in different currencies.",
-      "Theme switching for Dark Mode.",
-      "Currency Switching for your native currencies.",
-      "Async Storage for Local Database"
+      "Theme switching for Dark Mode."
     ],
     "projectImage": "https://cdn.sanity.io/images/ncre61s6/production/5d5d5406262b482de4d65d66df4b4d2410f6988b-300x300.png",
     "projectName": "Crypto Portfolio Application",

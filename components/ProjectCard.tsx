@@ -1,8 +1,6 @@
-import Image from "next/image";
-import React from "react";
 import { motion } from "framer-motion";
-import { Projects } from "../typings";
 import { urlFor } from "../sanity";
+import { Projects } from "../typings";
 
 type Props = {
   project: Projects;
@@ -10,7 +8,7 @@ type Props = {
 
 const ProjectCard = ({ project }: Props) => {
   return (
-    <article className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200 overflow-hidden">
+    <article className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-full md:w-[600px] xl:w-[900px] snap-center bg-[#292929] p-5 md:p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200 overflow-hidden">
       <motion.img
         initial={{
           y: -100,
@@ -26,33 +24,37 @@ const ProjectCard = ({ project }: Props) => {
         viewport={{
           once: true,
         }}
-        className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
+        className="w-32 h-32 xl:w-[200px] xl:h-[200px] object-contain object-center"
         src={urlFor(project.projectImage).url()}
         alt=""
       />
 
       <div className="px-0 md:px-10">
-        <h4 className="text-4xl font-light">{project.projectName}</h4>
-        <p className="font-bold text-2xl mt-1">{project.framework}</p>
+        <h4 className="text-xl md:text-4xl font-light">
+          {project.projectName}
+        </h4>
+        <p className="font-bold text-lg md:text-2xl mt-1">
+          {project.framework}
+        </p>
         <div className="flex space-x-2 my-2">
           {project.technologies.map((tech) => (
             <img
               key={tech._id}
-              className="h-10 w-10 rounded-full"
+              className="h-10 w-10  object-contain"
               src={urlFor(tech.image).url()}
               alt=""
             />
           ))}
         </div>
-        <p className="uppercase py-5 text-gray-300">
+        <p className="uppercase py-5 text-gray-300 text-sm">
           {new Date(project.dateStarted).toDateString()} -{" "}
           {new Date(project.dateEnded).toDateString()}
         </p>
-        <ul className="list-disc space-y-4 ml-5 text-lg">
+        {/* <ul className="list-disc space-y-4 ml-5 text-lg">
           {project.points.map((point) => (
             <li key={point}>{point}</li>
           ))}
-        </ul>
+        </ul> */}
       </div>
     </article>
   );

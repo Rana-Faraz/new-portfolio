@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 import { urlFor } from "../sanity";
 import { PageInfo } from "../typings";
@@ -30,7 +29,7 @@ function Hero({ pageInfo }: Props) {
         <h2 className="text-sm uppercase text-gray-500 pb-2 tracking-[15px]">
           {pageInfo.name}
         </h2>
-        <h1 className="text-5xl lg:text-6xl font-semibold px-10 align-middle justify-center">
+        <h1 className="text-2xl md:text-5xl lg:text-6xl font-semibold px-10 align-middle justify-center">
           <span>{text}</span>
           <Cursor cursorColor="#F7AB0A" />
         </h1>
