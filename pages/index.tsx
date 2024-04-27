@@ -12,6 +12,7 @@ import ProjectsData from "../data/projects.json";
 import SkillsData from "../data/skills.json";
 import SocialData from "../data/socials.json";
 import { Projects, Skill, Social } from "../typings";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/react";
 
 type Props = {
@@ -25,6 +26,7 @@ const Home = ({ pageInfo, projects, skills, socials }: Props) => {
   return (
     <>
       <Analytics />
+      <SpeedInsights />
       <div className="bg-[rgb(36,36,36)] text-white h-[100dvh] snap-y snap-mandatory overflow-y-scroll z-0 scroll-smooth overflow-x-hidden scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80 scrollbar-thumb-rounded-full scrollbar-track-rounded-full  ">
         <Head>
           <title>Rana Faraz</title>
