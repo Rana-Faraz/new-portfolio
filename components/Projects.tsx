@@ -18,7 +18,7 @@ const Projects = ({ projects }: Props) => {
       transition={{
         duration: 0.6,
       }}
-      className="flex flex-col relative h-screen text-left md:text-left  max-w-full px-2 md:px-10 gap-4 justify-center mx-auto items-center overflow-hidden "
+      className="flex flex-col relative h-[100dvh] text-left md:text-left  max-w-full px-2 md:px-10 gap-4 justify-center mx-auto items-center overflow-hidden "
     >
       <h3 className="uppercase tracking-[20px] text-gray-500 text-2xl">
         Projects

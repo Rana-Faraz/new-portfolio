@@ -23,7 +23,7 @@ const Contact = ({ pageInfo }: Props) => {
     window.location.href = `mailto:rfaraz51@gmail.com?subject=${formData.subject}&body=Hi, my name is ${formData.name}. ${formData.message}`;
   };
   return (
-    <div className="flex flex-col relative h-screen items-center justify-center">
+    <div className="flex flex-col relative h-[100dvh] items-center justify-center">
       <h3 className="uppercase tracking-[20px] text-gray-500 text-2xl">
         Contact
       </h3>

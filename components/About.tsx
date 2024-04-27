@@ -9,7 +9,7 @@ type Props = {
 
 const About = ({ pageInfo }: Props) => {
   return (
-    <div className="flex flex-col items-center justify-center relative h-screen gap-8 md:gap-20">
+    <div className="flex flex-col items-center justify-center relative h-[100dvh] gap-8 md:gap-20">
       <h3 className="uppercase tracking-[20px] text-gray-500 text-2xl">
         About
       </h3>

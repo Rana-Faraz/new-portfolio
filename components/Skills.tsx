@@ -21,7 +21,7 @@ const Skills = ({ skills }: Props) => {
       viewport={{
         once: true,
       }}
-      className="flex flex-col relative h-screen text-center md:text-left gap-4 max-w-[2000px] xl:px-10 min-h-screen justify-center xl:space-y-0 mx-auto items-center"
+      className="flex flex-col relative h-[100dvh] text-center md:text-left gap-4 max-w-[2000px] xl:px-10 min-h-[100dvh] justify-center xl:space-y-0 mx-auto items-center"
     >
       <h3 className="uppercase tracking-[20px] text-gray-500 text-2xl">
         Skills
